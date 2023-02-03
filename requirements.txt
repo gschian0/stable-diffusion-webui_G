@@ -1,4 +1,5 @@
 blendmodes
+vispy
 accelerate
 basicsr
 fonts
